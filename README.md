@@ -5,7 +5,7 @@
 **Maique_Dev/@Sr_Diassz** 
 
 - 🔭 Atualmente estou trabalhando em uma clinica de diagnosticos por imagem
-- 🌱 Atualmente estou aprendendo java e github, logo após ter dominado o html e css
+- 🌱 Atualmente estou aprendendo java/javascript e vuejs, python e estudando ingles 
 - 👯 Estou procurando colaborar em projetos voltados para a area de front end com o futuro objetivo de dominar o back end futuramente 
 - 🤔 Estou procurando ajuda com frameworks de curt time
 - 💬 Pergunte-me sobre tudo
