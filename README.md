@@ -1,7 +1,6 @@
 # MaiqueDev
 ### Olá pessoal 👋
 
-<! --
 **Maique_Dev/@Sr_Diassz** 
 
 - 🔭 Atualmente estou trabalhando em uma clinica de diagnosticos por imagem
@@ -11,7 +10,7 @@
 - 📫 Como entrar em contato comigo: @Sr_Diassz
 - ⚡ Curiosidade: fanatico por games e programação
 - 🧥 cursando análise e desnvolvimento de sistemas no centro universitario internacional uninter
-- -->
+
 
 <div align="center">
   <a href="https://github.com/465085">
