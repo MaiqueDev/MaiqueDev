@@ -9,7 +9,7 @@
 - 💬 Pergunte-me sobre tudo
 - 📫 Como entrar em contato comigo: @Sr_Diassz
 - ⚡ Curiosidade: fanatico por games e programação
-- 🧥 cursando análise e desnvolvimento de sistemas no centro universitario internacional uninter
+- 🧥 cursando análise e desnvolvimento de sistemas no centro universitário internacional uninter
 
 
 <div align="center">
