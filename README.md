@@ -5,13 +5,12 @@
 **Maique_Dev/@Sr_Diassz** 
 
 - 🔭 Atualmente estou trabalhando em uma clinica de diagnosticos por imagem
-- 🌱 Atualmente estou aprendendo java/javascript e vuejs, python e estudando ingles 
-- 👯 Estou procurando colaborar em projetos voltados para a area de front end com o futuro objetivo de dominar o back end futuramente 
+- 🌱 Atualmente estou aprendendo java/javascript e vuejs, python e estudando ingles  
 - 🤔 Estou procurando ajuda com frameworks de curt time
 - 💬 Pergunte-me sobre tudo
 - 📫 Como entrar em contato comigo: @Sr_Diassz
 - ⚡ Curiosidade: fanatico por games e programação
-- 🧥 cursando análise e desnvolvimento de sistemas 
+- 🧥 cursando análise e desnvolvimento de sistemas no centro universitario internacional uninter
 - -->
 
 <div align="center">
