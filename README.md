@@ -4,7 +4,7 @@
 **Maique_Dev/@Sr_Diassz** 
 
 - 🔭 Atualmente estou trabalhando em uma clinica de diagnosticos por imagem
-- 🌱 Atualmente estou aprendendo java/javascript e vuejs, python e estudando ingles  
+- 🌱 Atualmente estou aprendendo java/javascript e React como framework, python e estudando ingles  
 - 🤔 Estou procurando ajuda com frameworks de curt time
 - 💬 Pergunte-me sobre tudo
 - 📫 Como entrar em contato comigo: @Sr_Diassz
