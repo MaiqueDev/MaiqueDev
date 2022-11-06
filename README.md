@@ -7,9 +7,8 @@
 - 🌱 estou aprendendo python, utilizando a biblioteca pandas, SQL, power BI e estudando ingles  
 - 🤔 Estou procurando ajuda com frameworks de curt time
 - 💬 Pergunte-me sobre tudo
-- 📫 Como entrar em contato comigo: @Sr_Diassz
 - ⚡ Curiosidade: entusiasta analytcs e apaixonado por programação 
-- 🧥 cursando análise e desnvolvimento de sistemas no centro universitário internacional uninter
+- 🧥 cursando análise e desenvolvimento de sistemas no centro universitário internacional uninter
 
 
 <div align="center">
