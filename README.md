@@ -4,11 +4,11 @@
 **Maique_Dev/@Sr_Diassz** 
 
 - 🔭 Atualmente estou trabalhando em uma clinica de diagnosticos por imagem
-- 🌱 Atualmente estou aprendendo java/javascript e React como framework, python e estudando ingles  
+- 🌱 Atualmente estou aprendendo python utilizando a biblioteca pandas, SQL, power BI e estudando ingles  
 - 🤔 Estou procurando ajuda com frameworks de curt time
 - 💬 Pergunte-me sobre tudo
 - 📫 Como entrar em contato comigo: @Sr_Diassz
-- ⚡ Curiosidade: fanatico por games e programação
+- ⚡ Curiosidade: entusiasta analytcs e apaixonado por programação 
 - 🧥 cursando análise e desnvolvimento de sistemas no centro universitário internacional uninter
 
 
