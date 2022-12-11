@@ -4,7 +4,7 @@
 **Maique_Dev/@Sr_Diassz** 
 
 - 🔭 Atualmente estou trabalhando em uma clinica de diagnosticos por imagem
-- 🌱 estou aprendendo python, utilizando a biblioteca pandas, SQL, power BI e estudando ingles  
+- 🌱 estou dominando JavaScript, abrangendo bibliotecas,  
 - 🤔 Estou procurando ajuda com frameworks de curt time
 - 💬 Pergunte-me sobre tudo
 - ⚡ Curiosidade: entusiasta analytcs e apaixonado por programação 
