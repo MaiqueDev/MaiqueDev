@@ -1,14 +1,17 @@
-# MaiqueDev
-### Olá pessoal 👋
+#                                                         👋 Bem-vindo(a) ao meu trabalho e à minha diversão ⚡!
+                                                   
 
-**Maique_Dev/@Sr_Diassz** 
+- 🔭 Atualmente estou trabalhando como recepcionista no centro de imagem e diagnosticos
 
-- 🔭 Atualmente estou trabalhando em uma clinica de diagnosticos por imagem
-- 🌱 estou dominando JavaScript, abrangendo bibliotecas,  
-- 🤔 Estou procurando ajuda com frameworks de curt time
-- 💬 Pergunte-me sobre tudo
-- ⚡ Curiosidade: entusiasta analytcs e apaixonado por programação 
+
+- 🌱 atualmente estou aprendendo JavaScript e sua interação com react alem de ingles
+
+
+- ⚡Sou entusiasta do aprendizado, fascinado por aprender coisas novas e também, colocar em pratica 
+
+
 - 🧥 cursando análise e desenvolvimento de sistemas no centro universitário internacional uninter
+
 
 
 <div align="center">
