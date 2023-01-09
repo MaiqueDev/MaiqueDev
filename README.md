@@ -1,4 +1,4 @@
-#                                                         👋 Bem-vindo(a) ao meu trabalho e à minha diversão ⚡!
+#  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+(a)ao+meu+trabalho+e+minha+diversão!+:%29)](https://git.io/typing-svg)                                                  
                                                    
 
 - 🔭 Atualmente estou trabalhando como recepcionista no centro de imagem e diagnosticos
@@ -14,9 +14,8 @@
 
 
 
-  Obs: gosto de manter uns projeto no CodePen pois tenho certa familiaridade com a plataforma, vale a pena conferir, segue o link abaixo
-
-
+  gosto de manter uns projeto no CodePen pois tenho certa familiaridade com a plataforma, vale a pena conferir, segue o link abaixo
+<div> </div>
 
 <div align="center">
   <a href="https://github.com/465085">
