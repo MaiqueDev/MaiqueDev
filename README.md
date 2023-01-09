@@ -14,6 +14,10 @@
 
 
 
+  Obs: gosto de manter uns projeto no CodePen pois tenho certa familiaridade com a plataforma e gosto de senevolver por la támbem, vale a pena conferir, segue o lik abaixo
+
+
+
 <div align="center">
   <a href="https://github.com/465085">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=MaiqueDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
