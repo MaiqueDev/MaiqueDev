@@ -14,7 +14,7 @@
 
 
 
-  Obs: gosto de manter uns projeto no CodePen pois tenho certa familiaridade com a plataforma e gosto de senevolver por la támbem, vale a pena conferir, segue o lik abaixo
+  Obs: gosto de manter uns projeto no CodePen pois tenho certa familiaridade com a plataforma e gosto de postar projetos por la támbem, vale a pena conferir, segue o lik abaixo
 
 
 
