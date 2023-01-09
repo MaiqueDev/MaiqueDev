@@ -5,20 +5,20 @@
 
                                                    
 
-- 🔭 Atualmente estou trabalhando como recepcionista no centro de imagem e diagnosticos
+- ### 🔭 Atualmente estou trabalhando como recepcionista no centro de imagem e diagnosticos
 
 
-- 🌱 atualmente estou aprendendo JavaScript e sua interação com react alem de ingles
+- ### 🌱 atualmente estou aprendendo JavaScript e sua interação com react alem de ingles
 
 
-- ⚡Sou entusiasta do aprendizado, fascinado por aprender coisas novas e também, colocar em pratica 
+- ### ⚡Sou entusiasta do aprendizado, fascinado por aprender coisas novas e também, colocar em pratica 
 
 
-- 🧥 cursando análise e desenvolvimento de sistemas no centro universitário internacional uninter
+- ### 🧥 cursando análise e desenvolvimento de sistemas no centro universitário internacional uninter
 
 
 
-- *gosto de manter uns projeto no CodePen pois tenho certa familiaridade com a plataforma, vale a pena conferir, segue o link abaixo*
+- ### *gosto de manter uns projeto no CodePen pois tenho certa familiaridade com a plataforma, vale a pena conferir, segue o link abaixo*
 
 
   <div align="center">  
