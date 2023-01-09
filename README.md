@@ -1,4 +1,4 @@
-#  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=32CD32=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+(a)ao+meu+trabalho+e+minha+diversão!+:%29)](https://git.io/typing-svg)                                                  
+#  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=90EE90size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+(a)ao+meu+trabalho+e+minha+diversão+:%29)](https://git.io/typing-svg)                                                  
                                                    
 
 - 🔭 Atualmente estou trabalhando como recepcionista no centro de imagem e diagnosticos
