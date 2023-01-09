@@ -21,10 +21,10 @@
 - *gosto de manter uns projeto no CodePen pois tenho certa familiaridade com a plataforma, vale a pena conferir, segue o link abaixo*
 
 
-  <a href="https://github.com/465085">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=MaiqueDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiqueDev&layout=compact&langs_count=7&theme=dark"/>
-<div style="display: inline_block"><br>
+  <div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiqueDev&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
   
   
   
