@@ -18,7 +18,7 @@
 
 
 
-- ### *gosto de manter uns projetos no CodePen pois tenho certa familiaridade com a plataforma, vale a pena conferir, segue o link abaixo*
+- ### *gosto de manter diversos projetos no CodePen pois tenho certa familiaridade com a plataforma, vale a pena conferir, segue o link abaixo*
 
 
   <div align="center">  
