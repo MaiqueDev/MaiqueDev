@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7CFC00&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo(a)+ao+meu+trabalho+e+minha+diversão;+Full+Stack+Developer+:%29)](https://git.io/typing-svg)
 
 
-- ### 🌱 atualmente estou aprendendo JavaScript e sua interação com react e ingles
+- ### 🌱 atualmente estou aprendendo JavaScript, react e estudando ingles
 
 
 - ### ⚡Sou entusiasta do aprendizado, fascinado por aprender coisas novas e também, colocar em pratica 
