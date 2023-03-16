@@ -3,7 +3,7 @@
 
 <h4>🎓 graduando em Análise e desenvolvimento de sistemas na uninter</h4>
 <h4>🧠 em constante busca pelo conhecimento</h4>
-<h4>👨‍ entusiasta da tecnológica</h4>
+<h4>👩‍💻 entusiasta da tecnológica</h4>
 
 
 <h3 align="left">Conecte-se 📫 💬 comigo:</h3><p align="left">
