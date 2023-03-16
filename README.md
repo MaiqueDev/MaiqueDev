@@ -1,4 +1,7 @@
-<h1 align="center">Bem-vindo ao meu trabalho e à minha diversão ⚡!</h1><h3 align="center"></h3>  Como chegar até mim: maiquedev@outlook.com
+<h1 align="center">Bem-vindo ao meu trabalho e à minha diversão ⚡!</h1><h3 align="center"></h3> 
+
+
+📫 How to reach me: **maiquedev@outlook.com**
 
 
 
