@@ -1,4 +1,4 @@
-<h1 align="center">Oi , eu sou Maique Dias</h1><h3 align="center">Um desenvolvedor frontend apaixonado da Índia</h3>- Pergunte-me sobre **JavaScript,Typescript,Node,React**- Como chegar até mim **maiquedev@outlook.com**
+<h1 align="center">Bem-vindo ao meu trabalho e à minha diversão ⚡!</h1><h3 align="center">Um desenvolvedor frontend apaixonado da Índia</h3>- Pergunte-me sobre **JavaScript,Typescript,Node,React**- Como chegar até mim **maiquedev@outlook.com**
 
 
 
