@@ -7,6 +7,8 @@
 
 
 #### 📫 e-mail para contato: **maiquedev@outlook.com**
+<br>
+ Blogs/posts: https://medium.com/@maiquebieel13
 <br><br>
 <h3 align="left">Conecte-se 📫 💬 comigo:</h3><p align="left">
 <a href="https://www.instagram.com/sr_diassz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sr_diassz/" height="30" width="40" /></a>
