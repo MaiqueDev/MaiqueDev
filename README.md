@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maique Dias</h1>
 <h3 align="center">Frontend Developer | Backend Developer | Machine Learning Enthusiast and AI | JavaScript | Typescript | Python | Node | Graduando em análise e desenvolvimento de sistemas</h3>
 
-- 📫 How to reach me **maiquedev@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <a href = "maiquebieel13@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
