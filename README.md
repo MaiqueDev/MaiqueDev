@@ -1,5 +1,4 @@
-<h2 align="center">Bem-vindo ao meu trabalho e à minha diversão ⚡!</h1><h3 align="center"></h2> 
-<img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.4d49eb7ee6fefab3e8b58e97edf00f57?rik=9aZ7Injx%2bqtX%2bw&pid=ImgRaw&r=0">
+<h2 align="center">Bem-vindo ao meu trabalho e à minha diversão ⚡!</h1><h3 align="center"></h2>
 
 <h4>🎓 graduando em Análise e desenvolvimento de sistemas na uninter</h4>
 <h4>🧠 em constante busca pelo conhecimento</h4>
