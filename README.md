@@ -1,4 +1,4 @@
-<h2 align="center">Bem-vindo ao meu trabalho e à minha diversão ⚡!</h1><h3 align="center"></h2>
+<h2 align="center">Welcome to my work and my fun ⚡!</h1><h3 align="center"></h2>
 
 <h4>🎓 graduando em Análise e desenvolvimento de sistemas na uninter</h4>
 <h4>🧠 em constante busca pelo conhecimento</h4>
