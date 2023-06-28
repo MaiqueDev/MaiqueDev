@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maique Dias</h1>
+<h1 align="center">Hi 👋, I'm Maique Dias </h1>
 <h3 align="center">Backend Developer | JavaScript | Typescript | Node | python | Graduando em análise e desenvolvimento de sistemas</h3>
 
 
