@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Maique Dias  </h1>
-<h3 align="center"> Backend Developer | JavaScript | Typescript | Node | python | Graduando em análise e desenvolvimento de sistemas</h3>
+<h3 align="center"> Cyber Security | Data Analyst | Graduando em análise e desenvolvimento de sistemas</h3>
 
 
 <h3 align="left">Connect with me:</h3>
