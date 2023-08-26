@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Maique Dias  </h1>
-<h3 align="center">Cyber Security | Red Team | Segurança da informação | Graduando em análise e desenvolvimento de sistemas</h3>
+<h3 align="center">Back-End developer | Graduating in Systems Analysis and Development</h3>
 
 
 <h3 align="left">Connect with me:</h3>
