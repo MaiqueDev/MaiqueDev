@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, welcome  </h1>
-<h3 align="center"> gere um post para o medium com o tema de pentest</h3>
+<h3 align="center"> Back-end Developer | Data Analyst | Graduating in Systems Analysis and Developmentt</h3>
 
 
 <h3 align="left">Connect with me:</h3>
