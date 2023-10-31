@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, welcome  </h1>
-<h3 align="center"> CyberSecurity | Software developer back-end | Graduating in Systems Analysis and Development</h3>
+
 
 
 <h3 align="left">Connect with me:</h3>
