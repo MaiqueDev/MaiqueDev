@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/MaiqueDev/MaiqueDev/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">resolvendo grandes desafios usando a tecnologia.. <br><br> Seja Bem-vindo(a). Desenvolvedor Backend | FullStack focado em construir soluções robustas e escaláveis.</p>&nbsp;
+<p align="center">resolvendo grandes desafios usando a tecnologia. <br><br> Seja Bem-vindo(a). Desenvolvedor Backend | FullStack focado em construir soluções robustas e escaláveis.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MaiqueDev&theme=radical&mode=weekly" />
