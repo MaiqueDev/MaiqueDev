@@ -2,8 +2,10 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MaiqueDev&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-MaiqueDev.vercel.app/api/top-langs/?username=MaiqueDev&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=MaiqueDev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave" />
  </div>
+
+
  
  &nbsp;
  &nbsp;
