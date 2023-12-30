@@ -1,4 +1,4 @@
-<p align="center">Desenvolvendo soluções através da tecnologia. <br><br> Seja Bem-vindo(a). backend developer | cyber security. focado em soluções robustas e escaláveis. </p>&nbsp;
+<p align="center">Desenvolvendo soluções através da tecnologia. <br><br> Seja Bem-vindo(a). Backend developer | CyberSecurity. focado em soluções robustas e escaláveis. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MaiqueDev&theme=radical&mode=weekly" />
