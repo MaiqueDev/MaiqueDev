@@ -1,6 +1,6 @@
 <p align="center">Desenvolvendo soluções através da tecnologia.<br><br> Seja Bem-vindo(a). Backend developer | Cybersecurity. focado em soluções robustas e escaláveis. </p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
+<div  align="center" style="margin-bottom:100 px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MaiqueDev&theme=radical&mode=weekly" />
 <img width=55% align="center"  src="https://github-readme-stats.vercel.app/api?username=MaiqueDev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=synthwave" />
  </div>
