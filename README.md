@@ -1,4 +1,4 @@
-<p align="center">Desenvolvendo soluções através da tecnologia.<br><br> Seja Bem-vindo(a).  Backend developer | Cybersecurity, red team. Construindo soluções robustas e escaláveis. </p>&nbsp;
+<p align="center"> Cibsersegurança | Ethical Hacker | Software engineer </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100 px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MaiqueDev&theme=radical&mode=weekly" />
