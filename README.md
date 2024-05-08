@@ -1,4 +1,4 @@
-<p align="center"> Analista de dados | Engenheiro de dados | desenvolvedor de software | LGPD | Python | JS | </p>&nbsp;
+<p align="center"> Desenvolvedor Backend | C# | Python | JS | Entusiasta em Cibersegurança | </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100 px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MaiqueDev&theme=radical&mode=weekly" />
