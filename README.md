@@ -1,4 +1,4 @@
-<p align="center"> Analista de dados | Cybersecurity | LGPD | Red team | Python | JavaScript | Node | | </p>&nbsp;
+<p align="center"> Analista de sistemas | Cybersecurity | LGPD | Python | JavaScript | Node </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100 px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MaiqueDev&theme=radical&mode=weekly" />
