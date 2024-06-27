@@ -1,4 +1,4 @@
-<p align="center"> Analista de sistemas | Desenvolvedor Backend | Java | Python | JavaScript | Node | LGPD </p>&nbsp;
+<p align="center"> Desenvolvedor .NET | .NET CORE | Java | Analista de sistemas </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100 px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MaiqueDev&theme=radical&mode=weekly" />
