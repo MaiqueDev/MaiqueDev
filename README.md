@@ -1,4 +1,4 @@
-<p align="center"> Analista e desenvolvedor de sistemas | Infraestrutura | Dados </p>&nbsp;
+<p align="center"> Cibersegurança | Infraestrutura | Go | Python | </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100 px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=MaiqueDev&theme=radical&mode=weekly" />
